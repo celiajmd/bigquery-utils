@@ -1,3 +1,0 @@
-ignored:
-  - DL3008 # https://github.com/hadolint/hadolint/wiki/DL3008
-  - DL3007 # https://github.com/hadolint/hadolint/wiki/DL3007
