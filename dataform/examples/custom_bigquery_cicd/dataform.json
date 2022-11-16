@@ -1,6 +1,0 @@
-{
-    "warehouse": "bigquery",
-    "defaultSchema": "dataform_test",
-    "defaultDatabase": "deleodanny",
-    "concurrentQueryLimit": 100
-}
