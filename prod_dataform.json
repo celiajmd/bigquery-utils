@@ -1,6 +1,6 @@
 {
     "warehouse": "bigquery",
-    "defaultSchema": "example_dataset",
-    "defaultDatabase": "danny-bq",
+    "defaultSchema": "dataform_prod",
+    "defaultDatabase": "celiaji-schwab-dev",
     "concurrentQueryLimit": 100
 }
