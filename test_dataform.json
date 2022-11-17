@@ -2,5 +2,6 @@
     "warehouse": "bigquery",
     "defaultSchema": "dataform_test",
     "defaultDatabase": "celiaji-schwab-dev",
-    "concurrentQueryLimit": 100
+    "concurrentQueryLimit": 100,
+    "defaultLocation": "US"
 }
